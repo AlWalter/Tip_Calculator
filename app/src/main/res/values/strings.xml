@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TippCalculator</string>
+    <string name="main.msg.biamount" tools:ignore="ExtraTranslation">Bill Amount</string>
+    <string name="main.hint.billamount" tools:ignore="ExtraTranslation">Enter bill amount here</string>
+    <string name="main.msg.servicerating" tools:ignore="ExtraTranslation">Service rating</string>
+    <string name="main.msg.tippersent" tools:ignore="ExtraTranslation">%s%% Tip Persent</string>
+    <string name="main.msg.tiptotal" tools:ignore="ExtraTranslation">$%s Tip Total</string>
+    <string name="main.msg.billtotal" tools:ignore="ExtraTranslation">Bill total</string>
+    <string name="main.msg.billtotalresult" tools:ignore="ExtraTranslation">$%s</string>
+</resources>
